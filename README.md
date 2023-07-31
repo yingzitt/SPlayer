@@ -1,6 +1,6 @@
 <div align="center">
 <img alt="logo" height="80" src="./public/images/logo/favicon.png" />
-<h2>SPlayer</h2>
+<h2>YzPlayer</h2>
 <p>一个简约的在线音乐播放器</p>
 <img alt="main" src="./screenshots/main.png" />
 </div>
@@ -15,7 +15,7 @@
 
 ## 👀 Demo
 
-- [SPlayer](https://music.imsyy.top/)
+- [YzPlayer](https://music.yingzitt.com/)
 
 ## 🎉 功能
 
@@ -104,7 +104,7 @@ VITE_MUSIC_API = "your api url";
 
 ### 网易云解灰 API（可选）
 
-如需使用网易云解灰服务，请前往 [UNM-Server](https://github.com/imsyy/UNM-Server) 部署在线 API 服务并将 `API` 地址填入 `.env` 环境变量中，该服务用于网页端替换无法播放或无版权的歌曲。如不需要该服务，请前往站点的 `全局设置` 中关闭
+如需使用网易云解灰服务，请前往 [UNM-Server](https://github.com/yingzitt/UNM-Server) 部署在线 API 服务并将 `API` 地址填入 `.env` 环境变量中，该服务用于网页端替换无法播放或无版权的歌曲。如不需要该服务，请前往站点的 `全局设置` 中关闭
 
 ### 安装依赖
 
