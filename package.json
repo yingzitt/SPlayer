@@ -1,9 +1,9 @@
 {
-  "name": "splayer",
+  "name": "Yzplayer",
   "version": "1.1.8",
-  "author": "imsyy",
-  "home": "https://imsyy.top",
-  "github": "https://github.com/imsyy/SPlayer",
+  "author": "yingzi",
+  "home": "https://yingzi.ee",
+  "github": "https://github.com/yingzitt/YzPlayer",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
